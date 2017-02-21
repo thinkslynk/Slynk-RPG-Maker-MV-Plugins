@@ -59,6 +59,7 @@ You can combine anchors by separating them with a pipe '|' e.g.:
 A script that turns your item menu in to a list of pictures. 
 
 ### Parameters
+```javascript
 //=============================================================================
 /*:
 @plugindesc v1.0 A manageable item menu with pictures.
@@ -92,6 +93,7 @@ A script that turns your item menu in to a list of pictures.
 @desc Show the item name along side the description?
 @default false
 */
+```
 
 ## Simple Escape Menu
 ### Introduction
