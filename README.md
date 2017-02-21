@@ -47,7 +47,7 @@ Example:
         }
         }, 'center|top');
 ```
-The follow anchors are available for aligning the command map:
+The following anchors are available for aligning the command map:
 center|left|right|top|bottom
 
 You can combine anchors by separating them with a pipe '|' e.g.:
